@@ -1,18 +1,18 @@
 @font-face {
     font-family: or;
-    src: url(portfolio/fonts/organetto-ultrabold.ttf);
+    src: url(Portfolio/Fonts/organetto-ultrabold.ttf);
 }
 @font-face {
     font-family: mm;
-    src: url(portfolio/fonts/FuturaXP-Bold.otf);
+    src: url(Portfolio/Fonts/FuturaXP-Bold.otf);
 }
 @font-face {
     font-family: ww;
-    src: url(portfolio/fonts/f2331bbfd902cdf8971c4d3184a44283.otf);
+    src: url(Portfolio/Fonts/f2331bbfd902cdf8971c4d3184a44283.otf);
 }
 @font-face {
     font-family: bb;
-    src: url(portfolio/fonts/bb.ttf);
+    src: url(Portfolio/Fonts/bb.ttf);
 }
 
 /* ===== ШАПКА ===== */
